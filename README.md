@@ -11,8 +11,8 @@ Features:
 #### - From the source:
 - Make sure to install and use **Python 3.7** or **3.8**
 - Execute the following commands in a terminal window:
-1. `git clone https://github.com/mrf345/FQM.git`
-2. `cd FQM`
+1. `git clone https://github.com/Swapnil8787/Shopping-Queue-Manager.git`
+2. `cd Shopping-Queue-Manager`
 3. `python -m pip install -r requirements/deploy.txt`
 4. `python run.py --cli`
 
@@ -20,7 +20,7 @@ Features:
 ```bash
 Usage: run.py [OPTIONS]
 
-  FQM command-line interface (CLI):
+  SQM command-line interface (CLI):
 
   * If `--cli` is not used, initializing GUI will be attempted.
 
