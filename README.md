@@ -8,14 +8,6 @@ Features:
     
 ### Setup:
 
-#### - With executable:
-You can find an executable that's suitable to your OS from :
-
-- [FQMS](https://fqms.github.io/#download)
-- [Github Release](https://github.com/mrf345/FQM/releases/)
-- [Sourceforge](https://sourceforge.net/projects/free-queue-manager/)
-
-
 #### - From the source:
 - Make sure to install and use **Python 3.7** or **3.8**
 - Execute the following commands in a terminal window:
