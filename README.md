@@ -1,4 +1,4 @@
-### SQM-Shopping Queue Manager
+# SQM-Shopping Queue Manager
 A web based queue management system built with Python Flask, Bootstrap and jQuery.
 Features:
 
